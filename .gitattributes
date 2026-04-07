@@ -1,0 +1,6 @@
+# Ignore native folders for GitHub language statistics
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
